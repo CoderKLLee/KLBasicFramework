@@ -1,0 +1,29 @@
+//
+/*******************************************************************************
+        
+        File name:     PrefixHeader.pch
+        Author:        Ferryman (李凯隆)
+        Blog  :        https://coderkllee.github.io
+        E-mail:        coderkllee@163.com
+        
+        Description:
+        
+        History:
+                2018/10/25: File created.
+        
+********************************************************************************/
+    
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "KLMacros.h"                                            //  宏文件
+#import "KLConstant.h"                                          //  静态文件
+#import "KLLogManager.h"                                
+
+#import <UIColor+Chameleon.h>                                             //  颜色相关
+#import <SDAutoLayout/UIView+SDAutoLayout.h>                    // 布局相关
+#import <UIImageView+YYWebImage.h>
+
+#endif /* PrefixHeader_pch */
