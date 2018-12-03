@@ -55,7 +55,8 @@
 
 #### 3. 基类
 
-由于都是一个人开发, 基类设计采用的是 **继承** 的方式来开发的, 详细的看这里  [KLBasicFramework)](https://github.com/CoderKLLee/KLBasicFramework 的 `Class -> SuperClass`
+由于都是一个人开发, 基类设计采用的是 **继承** 的方式来开发的, 详细的看这里  [KLBasicFramework](https://github.com/CoderKLLee/KLBasicFramework) 的 `Class -> SuperClass`
 
-上面说到的一切, 在这里都能找到 ,  [KLBasicFramework)](https://github.com/CoderKLLee/KLBasicFramework 就酱~
+上面说到的一切, 在这里都能找到 ,  [KLBasicFramework](https://github.com/CoderKLLee/KLBasicFramework) 就酱~
+
 
